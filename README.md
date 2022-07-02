@@ -1,3 +1,4 @@
+# 脚手架的工具原理
 ## 搭建项目
 ```
 mkdir sample-scaffolding
